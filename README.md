@@ -20,13 +20,12 @@ From the console, you'll have all imports ready (including many you don't often 
 Doodle and Creative Scala
 --------------------------
 
-[CreativeScala](https://www.creativescala.org/)
-[Creative Scala Book](https://www.creativescala.org/creative-scala.html)
-[Doodle](https://github.com/creativescala/doodle)
-[Doodle API](https://www.creativescala.org/doodle/api/doodle/core/index.html)
-[Essential Scala](https://github.com/underscoreio/essential-scala)
-[Creative Scala Template](https://github.com/underscoreio/creative-scala-template)
-
+  * [CreativeScala](https://www.creativescala.org/)
+  * [Creative Scala Book](https://www.creativescala.org/creative-scala.html)
+  * [Doodle](https://github.com/creativescala/doodle)
+  * [Doodle API](https://www.creativescala.org/doodle/api/doodle/core/index.html)
+  * [Essential Scala](https://github.com/underscoreio/essential-scala)
+  * [Creative Scala Template](https://github.com/underscoreio/creative-scala-template)
 
 To run a demo, consider the following:
 
