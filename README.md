@@ -31,6 +31,8 @@ Useful commands in SBT:
   * compile: Compiles your code for syntactic and type correctness
   * run: Executes your programs
   * console: Provides and interactive REPL (Read Evaluate Print Loop) where you can interactively type commands
+  * test: Runs unit tests
+  * testOnly "package.Class" Runs a particular test. e.g. scalabridge.week3.RegexSuite
 
 From the console, you'll have all imports ready (including many you don't often need)
 
