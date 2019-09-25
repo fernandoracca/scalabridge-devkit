@@ -36,7 +36,7 @@ Useful commands in SBT:
 
 From the console, you'll have all imports ready (including many you don't often need)
 
-Doodle and Creative Scala
+Resources
 --------------------------
 
   * [CreativeScala](https://www.creativescala.org/)
@@ -44,9 +44,13 @@ Doodle and Creative Scala
   * [Creative Scala Template](https://github.com/underscoreio/creative-scala-template)
   * [Doodle](https://github.com/creativescala/doodle)
   * [Doodle API](https://www.creativescala.org/doodle/api/doodle/core/index.html)
+  * [FunCalc](https://github.com/inner-product/FunCalc/)
 
 
-To run a demo, consider the following:
+Doodle 
+---------
+
+To run a demo of Doodle, consider the following, via SBT > Console:
 
 ```scala
 scala> (Image.circle(100).fillColor(Color.red)).draw()
