@@ -1,4 +1,4 @@
-package scalabridge.doodle.ch3
+package scalabridge.week1.doodle
 
 import doodle.core._
 import doodle.syntax._

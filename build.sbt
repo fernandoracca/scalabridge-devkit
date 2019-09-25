@@ -1,5 +1,5 @@
 organization := "uk.co.aiur"
-name := "scalabridge-doodle"
+name := "scalabridge-devkit"
 version := "0.4.0"
 
 scalaVersion := "2.12.8"
