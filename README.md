@@ -68,3 +68,4 @@ Intermediate
 
   * [Essential Scala](https://github.com/underscoreio/essential-scala)
   * [Essential Scala Book](https://books.underscore.io/essential-scala/essential-scala.html)
+  * [Lessons](https://github.com/scalabridgelondon/lesson-plans/blob/master/intermediate/)
